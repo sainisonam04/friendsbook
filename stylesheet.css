@@ -1,0 +1,31 @@
+html, body {
+	height: 50%;
+
+}
+body {
+	margin:40px;
+	padding: 20px ;
+	font-family: 'Arial';
+	font-size: 15px;
+	font-weight: 250;
+	
+}
+form{color :#99FF66;
+}
+
+div{padding:50px;
+
+
+border:2px solid #3366CC;}
+
+ h1{
+text-align:center;
+ color:#3366CC;
+font-size:90;
+font-family:Algerian;
+}
+marquee
+{color:#99FF66;
+font-size:20px;
+font-family:jokerman;
+}
